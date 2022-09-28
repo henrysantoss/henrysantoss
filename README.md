@@ -47,7 +47,7 @@ I'm currently just a Jr Dev but I'm always looking for more knowledge to bring h
 [**SEO**](https://www.seosistemas.com.br) • Full-time \
 Languages & Technologies: `Delphi`,`Python`,`Flutter`,`PostgreSQL`,`Firebird`
 Featured projects: [PostoGestor](https://www.tecnuv.com.br) 
-<br>
+<br><br><br><br><br><br>
 
 [<img title="" src="https://i.imgur.com/LDwntMR.jpg" alt="Procer" align="left" height="200" width="200">]()
 
