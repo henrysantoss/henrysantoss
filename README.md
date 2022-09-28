@@ -48,7 +48,7 @@ I'm currently just a Jr Dev but I'm always looking for more knowledge to bring h
 Languages & Technologies: `Delphi`,`Python`,`Flutter`,`PostgreSQL`,`Firebird`
 Featured projects: [PostoGestor](https://www.tecnuv.com.br) 
 
-[<img title="" src="image.png" alt="Procer" align="left" height="" width="">]()
+[<img title="" src="https://i.imgur.com/LDwntMR.jpg" alt="Procer" align="left" height="" width="">]()
 
 **Back-end Developer (Jr)** \
 [**Procer**](https://www.procer.com.br) • Internship \
