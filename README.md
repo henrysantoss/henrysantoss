@@ -41,14 +41,14 @@ I'm currently just a Jr Dev but I'm always looking for more knowledge to bring h
 
 ### Work experience
 
-[<img title="" src="https://i.imgur.com/an4w8pg.jpg" alt="SEO" align="left" height="" width="">]()
+[<img title="" src="https://i.imgur.com/an4w8pg.jpg" alt="SEO" align="left" height="300" width="200">]()
 
 **Software Developer** \
 [**SEO**](https://www.seosistemas.com.br) • Full-time \
 Languages & Technologies: `Delphi`,`Python`,`Flutter`,`PostgreSQL`,`Firebird`
 Featured projects: [PostoGestor](https://www.tecnuv.com.br) 
 
-[<img title="" src="https://i.imgur.com/LDwntMR.jpg" alt="Procer" align="left" height="" width="">]()
+[<img title="" src="https://i.imgur.com/LDwntMR.jpg" alt="Procer" align="left" height="300" width="200">]()
 
 **Back-end Developer (Jr)** \
 [**Procer**](https://www.procer.com.br) • Internship \
