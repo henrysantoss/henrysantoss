@@ -54,7 +54,3 @@ Featured projects: [PostoGestor](https://www.tecnuv.com.br)
 **Back-end Developer (Jr)** \
 [**Procer**](https://www.procer.com.br) • Internship \
 Languages & Technologies: `Java`, `Git`, `Jira Software`
-
-
-
-zWajB7ZjOzXnLr7jfueCdarB14CTPEIg648RkHP0UKiFN2CNMV
