@@ -1,56 +1,89 @@
-### Henry's Sweet Home 🐧
+### Henry's Digital Fortress 🛡️
 
-I'm currently just a Jr Dev but I'm always looking for more knowledge to bring happiness to my family and the people close to me. I hope you enjoy my work present in this profile. Thanks.
-
-## <img src="file:///C:/Users/henry/Downloads/role-model.png" title="" alt="" width="50"> About me
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Cybersecurity Illustration">
 
 <p align="left"> 
-  Hello my name is Henry Santos, I'm 20 years old and I'm currently studying Computer Science at UNESC and I'm already working as a Software Developer.
-   I come from a poor family, being the only one among the brothers who is following the right path as a citizen. Between 2018 and 2021, I competed as an Athlete in track and street races, constantly achieving good results. I'm also a musician, I play the tuba in a small orchestra that makes anyone shiver.
-   I want to learn a lot more about programming and become a great future reference in the area, there is also the possibility of passing this knowledge on, but this is future thinking.
+  Hello! I'm <strong>Henry Santos</strong>. <br>
+  🎓 <strong>Computer Scientist</strong> (Graduated form UNESC) <br>
+  🔐 <strong>Cybersecurity Enthusiast & Software Developer</strong>
 </p>
-
-## **Languages and Technologies:**
-
-
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
+   I come from humble beginnings, and I'm proud to be carving a path of integrity and knowledge. Formerly a competitive track athlete (2018-2021) and a tuba player in a local orchestra, I bring discipline and harmony to everything I do.
+   <br><br>
+   Currently, I'm pivoting my career towards <strong>Cybersecurity</strong>. My goal is to protect digital infrastructures and become a reference in the field. I'm capable, curious, and always ready to learn.
 </p>
 
-## **GitHub Statistics**
+---
 
-<a href="https://github.com/Henrysantoss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrysantoss&theme=dracula&hide_langs_below=1" />
-</a>
+### 🛠️ Arsenal & Technologies
 
-<a href="https://github.com/Henrysantoss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrysantoss&show_icons=true&theme=dracula&line_height=27" alt="**HENRY SANTOS** github stats"/>
-</a>
+**Core Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+</p>
 
-### Work experience
+**Mobile & Application**
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+</p>
 
-[<img title="" src="https://i.imgur.com/an4w8pg.jpg" alt="SEO" align="left" height="70" width="70">]()
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-F29D0C?style=flat&logo=firebase&logoColor=white"/>
+</p>
 
-**Software Developer** \
-[**SEO**](https://www.seosistemas.com.br) • Full-time \
-Languages & Technologies: `Delphi`,`Python`,`Flutter`,`PostgreSQL`,`Firebird`
-Featured projects: [PostoGestor](https://www.tecnuv.com.br) 
-<br>
+**Cybersecurity Interests**
+<p align="left">
+  <img src="https://img.shields.io/badge/Penetration_Testing-black?style=flat&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network_Security-black?style=flat&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-black?style=flat&logo=gnubash&logoColor=white"/>
+</p>
 
-[<img title="" src="https://i.imgur.com/LDwntMR.jpg" alt="Procer" align="left" height="70" width="70">]()
+---
 
-**Back-end Developer (Jr)** \
-[**Procer**](https://www.procer.com.br) • Internship \
-Languages & Technologies: `Java`, `Git`, `Jira Software`
+### 📊 Intelligence Report
+
+<div align="left">
+  <a href="https://github.com/Henrysantoss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrysantoss&theme=dracula&hide_langs_below=1" />
+  </a>
+  <a href="https://github.com/Henrysantoss">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrysantoss&show_icons=true&theme=dracula&line_height=27" />
+  </a>
+</div>
+
+---
+
+### 💼 Mission History
+
+<table align="left">
+  <tr>
+    <td width="80px" align="center"><img src="https://i.imgur.com/an4w8pg.jpg" alt="SEO" height="50"></td>
+    <td>
+      <strong>Software Developer</strong> at <a href="https://www.seosistemas.com.br">SEO</a><br>
+      <em>Full-time</em><br>
+      Technologies: <code>Delphi</code>, <code>Python</code>, <code>Flutter</code>, <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center"><img src="https://i.imgur.com/LDwntMR.jpg" alt="Procer" height="50"></td>
+    <td>
+      <strong>Back-end Developer (Jr)</strong> at <a href="https://www.procer.com.br">Procer</a><br>
+      <em>Internship</em><br>
+      Technologies: <code>Java</code>, <code>Git</code>, <code>Jira</code>
+    </td>
+  </tr>
+</table>
+<br clear="all">
+
+---
+<p align="center">
+  <em>"Security is not a product, but a process." - Bruce Schneier</em>
+</p>
